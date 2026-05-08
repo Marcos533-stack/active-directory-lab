@@ -34,7 +34,7 @@ The objective of the project is to practice:
 
 | Machine | IP Address | Role |
 |---|---|---|
-| DC01 | 192.168.1.10 | DNS / Domain Controller |
+| DC01 | 192.168.4.50 | DNS / Domain Controller |
 | CLIENT01 | DHCP / Static | Domain Client |
 
 Domain Name:
