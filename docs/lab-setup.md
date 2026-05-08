@@ -131,7 +131,6 @@ Included screenshots:
 - Active Directory Users and Computers
 - GPO configuration
 - Domain-joined client
-- Domain user login
 
 ---
 
